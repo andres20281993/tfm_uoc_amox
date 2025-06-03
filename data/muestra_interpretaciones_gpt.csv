@@ -1,0 +1,31 @@
+CHEMICAL,DISEASE,relación,oración,interpretacion
+mug/mL,beta-lactam-,efecto_adverso,"In order to test colistin resistance, the isolates were subjected to the minimum inhibitory concentration (MIC) technique using the broth microdilution method (BMD; 0.5 to 16 mug/mL) and polymerase chain reaction (PCR) assays targeting colistin- (mcr-1 to mcr-5) and beta-lactam- (blaTEM, blaCTX-M, blaSHV, ampC) genes.","[Error]: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+"
+TC,TIA,efecto_adverso,"The heterogeneous Fenton-like reaction with 100 g/L of the modified zeolite and 2 mM H(2)O(2) could completely remove amoxicillin (AMX), tetracycline (TC), and tiamulin (TIA) in the swine farm effluent within 30 min.","[Error]: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+"
+bismuth-based,S. boulardii,efecto_adverso,CONCLUSIONS: Addition of S. boulardii to VA-dual for 10 days is as effective as the 14-days bismuth-based quadruple regimen while ensuring fewer adverse events and lesser cost.,"[Error]: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+"
