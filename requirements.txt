@@ -1,0 +1,11 @@
+pandas
+numpy
+scispacy
+spacy
+biopython
+transformers
+matplotlib
+seaborn
+networkx
+streamlit
+scikit-learn
